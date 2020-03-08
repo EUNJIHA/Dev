@@ -7,6 +7,6 @@
 
 **mkdir**: (Make Directory) 디렉도리 만들기
 
-**mv**: (move) 파일/디렉도리 이동 OR 이름 바꾸기
+**mv**: (Move) 파일/디렉도리 이동 OR 이름 바꾸기
 
 **make**: 범용적 컴파일 명령어
