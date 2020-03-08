@@ -1,4 +1,5 @@
 # Git 사용법 정리
+### [branch 없이 master로만 할 때]
 
 #### 외부 -> 로컬
 git clone [git주소]
