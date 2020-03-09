@@ -14,3 +14,8 @@
 **tar**: (Tape Archiver) 파일 압축 및 해제
 
 **wget**: (Web Get) 웹서버에서 컨텐츠 가져오기
+
+
+**./configure**
+**make**
+**make clean**
