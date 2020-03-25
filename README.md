@@ -1,6 +1,10 @@
 # Dev
 Dev Study
 
+### ✔ 개념
+**# ORM(Object-Relational Mapping)**: 객체관계형매핑  
+
+### ✨ 기타
 
 * 질문 오픈북: https://hamait.tistory.com/1054
 
