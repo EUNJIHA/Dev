@@ -1,4 +1,5 @@
 # Types of Mobile Apps: Native, Hybrid, Web and Progressive Web Apps
+<img width="820" alt="mobile" src="https://user-images.githubusercontent.com/43839938/77712094-2a549880-7016-11ea-9502-6f547963d073.png">
 
 
 #### 🎈참고  
