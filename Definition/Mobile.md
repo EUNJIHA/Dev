@@ -21,3 +21,6 @@
 - React Native: **Mobile FrameWork**. Mobile app을 위한 것.  
 출처: https://zorba91.tistory.com/132  
   https://code.i-harness.com/ko-kr/q/21096ae
+  
+ **2) (크로스플랫폼 앱) React Native vs Flutter  
+ https://link.medium.com/DSQajkotb5
