@@ -2,15 +2,15 @@
 Dev Study
 
 ### ✔ 개념
-1) DONE  
+#### 1) DONE  
 
-2) PROGRESS  
+#### 2) PROGRESS  
 * [**Object-Oriented**](Definition/Object-Oriented.md)  
 * [**ORM**](Definition/ORM.md)**(Object-Relational Mapping)**  
 
 * [**Git Command**](Definition/git.md)  
 * [**Linux Command**](Definition/LinuxCommand.md)  
-3) TO DO  
+#### 3) TO DO  
 * **Types of** [**Mobile Apps**](Definition/Mobile.md)
 * [**PWA**](Definition/PWA.md)**(Progressive Web Application)**
 
