@@ -10,6 +10,7 @@ WPF 사용하다가,
 - Markup Language의 대표적인 예: HTML, XML, XAML, 
 
 ### MarkDown Language
+--------------
 - Markup Language의 일종으로 **읽기도, 쓰기도** 쉬운 문서양식을 지향함.
 - 즉, Markup Language를 좀 더 쓰기 쉽게 만들어 놓은 것. 태그 일일이 귀찮으니까
 
